@@ -12,5 +12,7 @@ This is the list of my projects:
   In this project, we choose Butterworth to design our filter (THIS IS CURRENTLY IN PROGRESS!!!)
   
   Report: https://medium.com/@nattarach.s/comparison-among-lc-low-pass-filter-stepped-impedance-and-microstrip-filter-bd696256a281
+ 
+- Digital Signal Processing (DSP) Project: This project is about seperating Music from Vocal by using Fast Fourier Transform. (The result does not met with my expectation)
 
 
