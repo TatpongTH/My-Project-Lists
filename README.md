@@ -10,5 +10,7 @@ This is the list of my projects:
 - Sonnet Lite (ZIP file) is about designing Butterworth filters or Chebyshev filter for transmission line. 
 
   In this project, we choose Butterworth to design our filter (THIS IS CURRENTLY IN PROGRESS!!!)
+  
+  Report: https://medium.com/@nattarach.s/comparison-among-lc-low-pass-filter-stepped-impedance-and-microstrip-filter-bd696256a281
 
 
